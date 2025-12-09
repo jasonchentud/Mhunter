@@ -1,0 +1,31 @@
+﻿@page "/monsters"
+@using Mhunter.Models
+@using Mhunter.Services
+@inject MonsterService MonsterService
+
+<h3>All Monsters</h3>
+
+@if (monsters == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <ul>
+        @foreach (var m in monsters)
+        {
+            <li>@m.name (@m.type)</li> 
+
+        }
+    </ul>
+}
+
+@code {
+    List<Monster>? monsters;
+
+    protected override async Task OnInitializedAsync()
+    {
+        monsters = await MonsterService.GetAllMonsters();
+    }
+}
+

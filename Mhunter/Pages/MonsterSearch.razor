@@ -1,0 +1,32 @@
+﻿@page "/monster-search"
+@using Mhunter.Models
+@using Mhunter.Services
+@inject MonsterService MonsterService
+
+<h3>Search for a Monster</h3>
+
+<input @bind="search" placeholder="Enter monster name" />
+<button @onclick="FindMonster">Search</button>
+
+@if (monster != null)
+{
+    <h4>@monster.name</h4>
+    <p>@monster.description</p>
+}
+else if (searched)
+{
+    <p>No monster found.</p>
+}
+
+@code {
+    string search = "";
+    Monster? monster;
+    bool searched = false;
+
+    async Task FindMonster()
+    {
+        searched = true;
+        monster = await MonsterService.GetMonsterByName(search);
+    }
+}
+

@@ -1,0 +1,33 @@
+﻿@page "/random-monster"
+@using Mhunter.Models
+@using Mhunter.Services
+@inject MonsterService MonsterService
+
+<h3>Random Monster</h3>
+
+@if (monster == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <h4>@monster.name</h4>
+    <p>@monster.description</p>
+}
+
+<button @onclick="LoadRandom">Get Another Random Monster</button>
+
+@code {
+    Monster? monster;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadRandom();
+    }
+
+    async Task LoadRandom()
+    {
+        monster = await MonsterService.GetRandomMonster();
+    }
+}
+
