@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|c:\\users\\itach\\school\\mhunter\\mhunter\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|c:\\users\\itach\\school\\mhunter\\mhunter\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|c:\\users\\itach\\school\\mhunter\\mhunter\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|c:\\users\\itach\\school\\mhunter\\mhunter\\pages\\randommonster.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|solutionrelative:pages\\randommonster.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|c:\\users\\itach\\school\\mhunter\\mhunter\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|c:\\users\\itach\\school\\mhunter\\mhunter\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{57EB9423-1350-4C60-B8A3-97EE81EA7696}|Mhunter.csproj|solutionrelative:layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -53,28 +61,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T06:28:01.981Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T06:27:37.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T06:27:21.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RandomMonster.razor",
               "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Pages\\RandomMonster.razor",
               "RelativeDocumentMoniker": "Pages\\RandomMonster.razor",
               "ToolTip": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Pages\\RandomMonster.razor",
               "RelativeToolTip": "Pages\\RandomMonster.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-09T06:26:02.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MonsterSearch.razor",
               "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Pages\\MonsterSearch.razor",
               "RelativeDocumentMoniker": "Pages\\MonsterSearch.razor",
@@ -87,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Monsters.razor",
               "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Pages\\Monsters.razor",
               "RelativeDocumentMoniker": "Pages\\Monsters.razor",
@@ -100,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MonsterService.cs",
               "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Services\\MonsterService.cs",
               "RelativeDocumentMoniker": "Services\\MonsterService.cs",
@@ -113,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Models\\Monster.cs",
               "RelativeDocumentMoniker": "Models\\Monster.cs",
@@ -126,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
@@ -139,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "NavMenu.razor.css",
               "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Layout\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "Layout\\NavMenu.razor.css",
@@ -151,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "Layout\\MainLayout.razor.css",
@@ -163,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter.UnitTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\Mhunter.UnitTests\\UnitTest1.cs",
@@ -175,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -185,18 +232,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T20:32:49.366Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\itach\\School\\Mhunter\\Mhunter\\Pages\\Counter.razor",
-              "RelativeToolTip": "Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-09T06:15:01.645Z"
             },
             {
               "$type": "Bookmark",
